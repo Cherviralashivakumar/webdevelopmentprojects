@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+<head>
+  <style media="screen">
+  img
+  {
+    width:400px;
+    heigth:100px;
+      border: 10px solid rgb(100 118, 110);
+      background-repeat:repeat-x;
+
+
+  }
+
+  h4{
+
+      font-size: 18px;
+
+  }
+  h1
+  {
+      color:red;
+      text-align:center;
+
+
+  }
+p
+{
+color:brown;
+  font-size: 18px;
+
+
+}
+#h1tag
+{
+  color:black;
+font-size:40px;
+
+
+}
+  </style>
+</head>
+<body>
+<center>
+
+  <img src="timcook.jpg" alt="image not loaded" id="1">
+  </center>
+
+  <p id="1">
+    <h1 id="h1tag">TIM COOK</h1>
+<h4>
+    Born	Timothy Donald Cook
+    November 1, 1960 (age 62)
+    Mobile, Alabama, U.S.
+    Education	Auburn University (BS)
+    Duke University (MBA)
+    Title	CEO of Apple Inc.
+    Parents
+    Donald Cook (father)
+    Geraldine Cook (mother)
+    Website	Apple Leadership Profile
+    Signature
+    Tim Cook Signature.svg
+</h4>
+  </p>
+  <p>
+  <h1>
+     Leadership style
+  </h1>
+<p>
+    As Apple Inc. CEO, Cook regularly begins sending emails at 4:30 am each weekday and in the past held Sunday-night staff meetings by telephone to prepare for the next week.Cook shared in May 2013 that his leadership focused on people, strategy, and execution; he explained, "If you get those three right the world is a great place." Under Cook's leadership, Apple has increased its donations to charity, and in 2013, he hired Lisa Jackson, formerly the head of the Environmental Protection Agency, to assist Apple with the development of its renewable energy activities.<br>
+     Since becoming CEO, Cook has replaced Steve Jobs's micromanagement with a more hands-off style, and implemented a more collaborative culture at Apple.
+</p>
+
+</body>

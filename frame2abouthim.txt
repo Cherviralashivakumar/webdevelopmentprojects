@@ -1,0 +1,65 @@
+
+<head>
+  <style media="screen">
+    h1
+    {
+    color:red;
+    text-align:center;
+
+
+
+    }
+    p
+    {
+        color:blue;
+        font-size: 18px;
+
+
+    }
+    #para1
+    {
+
+        color:green;
+        font-size: 18px;
+
+  </style>
+</head>
+<body>
+
+<h1>INTRODUCTION</h1>
+<p>
+Timothy Donald Cook (born November 1, 1960) is an American business executive who has been the chief executive officer of Apple Inc. since 2011. Cook previously served as the company's chief operating officer under its co-founder Steve Jobs. He is the first CEO of any Fortune 500 company who is openly gay.
+<br>
+Cook joined Apple in March 1998 as a senior vice president for worldwide operations, and then served as the executive vice president for worldwide sales and operations. He was made the chief executive on August 24, 2011, prior to Jobs' death in October of that year.During his tenure as the chief executive, he has advocated for the political reformation of international and domestic surveillance, cybersecurity, American manufacturing, and environmental preservation. Since 2011 when he took over Apple, to 2020, Cook doubled the company's revenue and profit, and the company's market value increased from $348 billion to $1.9 trillion.
+<br>
+In 2014, Cook became the first chief executive of a Fortune 500 company to publicly come out as gay. Cook also serves on the boards of directors of Nike, Inc. and the National Football Foundation;he is a trustee of Duke University, his alma mater.Outside of Apple, Cook engages in philanthropy, and in March 2015, he said he planned to donate his fortune to charity.
+<br>
+Early life and education
+Cook was born in Mobile, Alabama, United States. He was baptized in a Baptist church and grew up in nearby Robertsdale. His father, Donald, was a shipyard worker, and his mother, Geraldine, worked at a pharmacy.
+<br>
+Cook graduated from Robertsdale High School in Alabama in 1978.
+ He received a Bachelor of Science degree with a major in industrial engineering from Auburn University in 1982 and a Master of Business Administration from Duke University in 1988.
+</p>
+
+
+<h1>CAREER</h1>
+<p id="para1">
+Career
+Pre-Apple era
+After graduating from Auburn University, Cook spent 12 years in IBM's personal computer business, ultimately serving as the director of North American fulfillment. During this time, Cook also earned his MBA from Duke University, becoming a Fuqua Scholar in 1988. Later, he served as the chief operating officer of the computer reseller division of Intelligent Electronics. In 1997, he became the vice president for corporate materials at Compaq for six months, but left the position after being hired by Steve Jobs.
+
+Apple era
+Early career
+In 1998, Steve Jobs asked Cook to join Apple. In a commencement speech at Auburn University, Cook said he decided to join Apple after meeting Jobs:
+<br>
+Any purely rational consideration of cost and benefits lined up in Compaq's favor, and the people who knew me best advised me to stay at Compaq... On that day in early 1998, I listened to my intuition, not the left side of my brain or for that matter even the people who knew me best... no more than five minutes into my initial interview with Steve, I wanted to throw caution and logic to the wind and join Apple. My intuition already knew that joining Apple was a once-in-a-lifetime opportunity to work for the creative genius and to be on the executive team that could resurrect a great American company.
+<br>
+His first position was senior vice president for worldwide operations. Cook closed factories and warehouses, and replaced them with contract manufacturers; this resulted in a reduction of the company's inventory from months to days. Predicting its importance, his group had invested in long-term deals such as advance investment in flash memory since 2005. This guaranteed a stable supply of what became the iPod Nano, then iPhone and iPad. Competitors at Hewlett-Packard described their cancelled HP TouchPad tablet computer and later said that it was made from "cast-off, reject iPad parts". Cook's actions were recognized for keeping costs under control, and combined with the rest of the company, generated huge profits
+<br>
+Cook giving the keynote at the 2012 World Wide Developers Conference
+In January 2007, Cook was promoted to lead operations and served as chief executive in 2009, while Jobs was away on a leave of absence for health-related issues. In January 2011, Apple's board of directors approved a third medical leave of absence requested by Jobs. During that time, Cook was responsible for most of Apple's day-to-day operations, while Jobs made most major decisions.
+
+
+</p>
+
+</body>
